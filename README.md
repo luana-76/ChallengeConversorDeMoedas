@@ -17,3 +17,27 @@ Este é um projeto simples de **conversor de moedas** desenvolvido em Java, que 
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/luana-76/ChallengeConversorDeMoedas.git
+
+2. **Abra o projeto em uma IDE Java (como IntelliJ ou Eclipse) ou use o terminal.**
+
+3. **Compile e execute o projeto**
+
+## 🎯 Moedas Suportadas
+
+O menu de opções do programa inclui:
+
+- **Dólar → Peso argentino**
+- **Peso argentino → Dólar**
+- **Dólar → Real brasileiro**
+- **Real brasileiro → Dólar**
+- **Dólar → Peso colombiano**
+- **Peso colombiano → Dólar**
+
+## Exemplo de Uso
+
+![Funcionamento](./inicio.png)
+
+> **Aviso:** Para sair, você pode digitar a palavra sair ou o número sete(7):
+
+
+![Funcionamento](./final.png)
