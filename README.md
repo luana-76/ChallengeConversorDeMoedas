@@ -20,7 +20,7 @@ Este é um projeto simples de **conversor de moedas** desenvolvido em Java, que 
 
 2. **Abra o projeto em uma IDE Java (como IntelliJ ou Eclipse) ou use o terminal.**
 
-3. **Compile e execute o projeto**
+3. **Compile e execute o projeto.**
 
 ## 🎯 Moedas Suportadas
 
@@ -35,9 +35,9 @@ O menu de opções do programa inclui:
 
 ## Exemplo de Uso
 
-![Funcionamento](./inicio.png)
+![Funcionamento1](./inicio.png)
 
 > **Aviso:** Para sair, você pode digitar a palavra sair ou o número sete(7):
 
 
-![Funcionamento](./final.png)
+![Funcionamento2](./final.png)
